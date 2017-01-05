@@ -16,7 +16,7 @@ i 1 + 1  500 ; 500
 ```
 
 
-1. chapter 8, p.163, listing 8.6 two lines
+2. chapter 8, p.163, listing 8.6 two lines
 have missing '$' 
 
 ```
