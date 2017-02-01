@@ -23,3 +23,11 @@ have missing '$'
 $FLUTE(0 ' 0.5 ' 10000 ' 9.00)
 $OBOE(0 ' 0.7 ' 8000 ' 8.07)
 ```
+
+3. chapter 16, p.397, listing 16.6
+aexc instead of aecx 
+
+
+4. chapter 16, p.401, listing 16.7 should read
+opcode Masspring,a,aiii instead of
+opcode Masspring,a,aiiii
