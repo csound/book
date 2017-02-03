@@ -31,3 +31,11 @@ aexc instead of aecx
 4. chapter 16, p.401, listing 16.7 should read
 opcode Masspring,a,aiii instead of
 opcode Masspring,a,aiiii
+
+5. some chapter 15 examples have missing lines 
+listing 15.21 (missing last lines)
+listing 15.25 (missing last lines)
+listing 15.26 (missing last lines)
+
+6. odd layout of listing
+listing 15.27 (header + one line on one page, then some stray lines on next page under other figures, then more on next page)
