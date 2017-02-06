@@ -1,3 +1,5 @@
+/* A simple sound synthesis instrument */
+
 instr 1
  aramp init 0
  out((2*aramp-1)*p4)

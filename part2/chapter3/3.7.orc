@@ -1,3 +1,5 @@
+/* Using i-time variables with expressions */
+
 instr 1
  ires = p(4) + p(5)
  print ires

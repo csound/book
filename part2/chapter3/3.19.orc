@@ -1,3 +1,5 @@
+/* An arpeggiator instrument */
+
 isize = 16384
 ifn ftgen 1, 0,  isize,  7, 
   0, isize*0.1, 1,isize*0.8, 1, isize*0.1, 0 

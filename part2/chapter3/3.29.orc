@@ -1,3 +1,5 @@
+/* Preprocessor condititionals */
+
 #define PRINTAMP #1#
 instr 1
   iamp = ampdbfs(p4)

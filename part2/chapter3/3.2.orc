@@ -1,3 +1,5 @@
+/* Statements in an instrument */
+
 instr 1
  print 1
  print 1+1

@@ -1,3 +1,5 @@
+/* Comments in an instrument */
+
 instr 1
  /* 
    the line below shows a

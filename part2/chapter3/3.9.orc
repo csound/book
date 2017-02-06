@@ -1,3 +1,5 @@
+/* Using p-variables */
+
 instr 1
  print p4 + p5
 endin 
