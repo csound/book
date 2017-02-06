@@ -1,3 +1,5 @@
+/* CSD with options controlling */
+
 <CsoundSynthesizer>
 <CsOptions>
 -odac

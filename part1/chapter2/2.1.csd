@@ -1,3 +1,5 @@
+/* Minimal legal CSD code */
+
 <CsoundSynthesizer>
 <CsInstruments>
 instr 1

@@ -1,3 +1,5 @@
+/* Setting ksmps to 64 */
+
 <CsoundSynthesizer>
 <CsInstruments>
 ksmps = 64

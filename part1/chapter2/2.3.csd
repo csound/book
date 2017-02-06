@@ -1,3 +1,5 @@
+/* Minimal sound-producing CSD code with numeric score */
+
 <CsoundSynthesizer>
 <CsInstruments>
 instr 1
