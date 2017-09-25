@@ -1,3 +1,5 @@
+/* Performance-time and init-pass statements, ordered by execution time */
+
 instr 1
  print 1
  print 2

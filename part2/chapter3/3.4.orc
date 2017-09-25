@@ -1,3 +1,5 @@
+/* Performance-time and init-pass statements */
+
 instr 1
  printk 0, 3
  print 1

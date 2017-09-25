@@ -1,3 +1,5 @@
+/* Mixing three oscillators */
+
 instr 1 
    out((oscili(p4, p5) + 
    oscili(p4/3,p5*3) + 

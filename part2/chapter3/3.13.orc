@@ -1,3 +1,5 @@
+/* A sine wave synthesis instrument */
+
 instr 1
  i2pi = 6.28318530
  aramp init 0

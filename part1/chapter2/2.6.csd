@@ -1,3 +1,5 @@
+/* Setting the 0dbfs to 1 */
+
 <CsoundSynthesizer>
 <CsInstruments>
 0dbfs=1

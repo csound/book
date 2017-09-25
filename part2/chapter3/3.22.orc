@@ -1,3 +1,5 @@
+/* Linen envelope processor example */
+
 instr 1
    kenv  linen  ampdbfs(p4),p6,p3,p7
    asig  oscili  kenv, cpspch(p5)

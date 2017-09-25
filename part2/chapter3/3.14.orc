@@ -1,3 +1,5 @@
+/* A sine wave synthesis instrument, using oscili */
+
 instr 1 
    out(oscili(p4, p5))
 endin

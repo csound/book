@@ -1,3 +1,5 @@
+/* Setting the nchnls to 2 */
+
 <CsoundSynthesizer>
 <CsInstruments>
 nchnls=2

@@ -1,3 +1,5 @@
+/* Using i-time variables with opcodes */
+
 instr 1
  iNow date
  print iNow

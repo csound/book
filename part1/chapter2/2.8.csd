@@ -1,3 +1,5 @@
+/* Setting the kr to 441Hz */
+
 <CsoundSynthesizer>
 <CsInstruments>
 kr = 441

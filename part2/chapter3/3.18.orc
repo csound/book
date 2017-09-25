@@ -1,3 +1,5 @@
+/* An instrument using a function table to control amplitude */
+
 isize = 16384
 ifn ftgen 1, 0,  isize,  7, 
      0, isize*0.1, 1,isize*0.8, 1, isize*0.1, 0 

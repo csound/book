@@ -1,3 +1,5 @@
+/* Producing random numbers at i-time */
+
 instr 1
  imax = 10
  printk 0.1, rnd(imax) 

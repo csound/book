@@ -1,3 +1,5 @@
+/* Two modulation instruments */
+
 instr 1 
    out(oscili(p4/2 + oscili:k(p4/2, p6), p5))
 endin

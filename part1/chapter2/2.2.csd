@@ -1,3 +1,5 @@
+/* Minimal sound-producing CSD code */
+
 <CsoundSynthesizer>
 <CsInstruments>
 instr 1

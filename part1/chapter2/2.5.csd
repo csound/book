@@ -1,3 +1,5 @@
+/* Setting the sr to 48,000 Hz */
+
 <CsoundSynthesizer>
 <CsInstruments>
 sr = 48000

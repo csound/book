@@ -1,3 +1,5 @@
+/* Macro example */
+
 #define  DURATION #p3#
 instr 1
    kenv  expon 1, $DURATION, 0.001

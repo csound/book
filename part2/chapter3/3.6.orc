@@ -1,3 +1,5 @@
+/* Instrument parameters */
+
 instr 1
  print p(4)
  print p(5)

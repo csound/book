@@ -1,3 +1,5 @@
+/* Exponential envelope example */
+
 instr 1
    kenv  expon 1, p3, 0.001
    kpit  expon 2,p3,1

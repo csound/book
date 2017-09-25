@@ -1,3 +1,5 @@
+/* A soundfile playback instrument */
+
 nchnls=2
 instr 1
  p3 = filelen(p4)
