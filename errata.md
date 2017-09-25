@@ -23,3 +23,6 @@ have missing '$'
 $FLUTE(0 ' 0.5 ' 10000 ' 9.00)
 $OBOE(0 ' 0.7 ' 8000 ' 8.07)
 ```
+3. On p.112, under 'Until and while', last paragraph should read:
+"These loops will work at initialisation time only if the condition is
+i-time and perfomance time only if the condition is k-rate"
